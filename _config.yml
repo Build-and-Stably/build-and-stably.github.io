@@ -14,6 +14,9 @@ plugins:
 
 show_excerpts: true
 
+# 글에 적힌 시각이 아직 안 지났어도 바로 보이게 합니다.
+future: true
+
 minima:
   date_format: "%Y년 %m월 %d일"
 
