@@ -1,0 +1,22 @@
+# 블로그 기본 설정 파일입니다.
+# 제목·소개 문구는 여기서 바꾸면 됩니다.
+
+title: 개발 기록
+description: 개발 초보의 작업 기록 — 무엇을 했고, 왜 그렇게 결정했는지
+url: "https://build-and-stably.github.io"
+baseurl: ""
+lang: ko
+timezone: Asia/Seoul
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+show_excerpts: true
+
+minima:
+  date_format: "%Y년 %m월 %d일"
+
+# 초안(_drafts)은 블로그에 나오지 않습니다.
+exclude:
+  - README.md

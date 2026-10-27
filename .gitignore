@@ -1,0 +1,6 @@
+# 초안은 내 컴퓨터에만 둡니다 (공개 저장소에 올라가지 않도록).
+_drafts/
+
+_site/
+.jekyll-cache/
+.sass-cache/
