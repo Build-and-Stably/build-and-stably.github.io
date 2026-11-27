@@ -72,13 +72,17 @@ date: 2026-11-27 11:37:45 +0900
 ## 결과 화면
 
 ![오늘 화면]({{ "/assets/images/data-10min-note-app.png" | relative_url }})
+
 *오늘 화면. 오늘의 학습, 이번 주 진도, 이번 주 5회차가 보입니다. (기록이 없는 처음 상태)*
 
 ![회차 화면]({{ "/assets/images/data-10min-note-app-2.png" | relative_url }})
+
 *회차 화면. 주차별로 접고 펼 수 있고, 아직 원고가 없는 4~8주차는 "준비 중"으로 표시됩니다. (기록이 없는 처음 상태)*
 
 ![이론 카드 화면]({{ "/assets/images/data-10min-note-app-3.png" | relative_url }})
+
 *한 회차의 첫 이론 카드. 위쪽 막대가 회차 진행 단계를 보여 줍니다. (기록이 없는 처음 상태)*
 
 ![퀴즈 화면]({{ "/assets/images/data-10min-note-app-4.png" | relative_url }})
+
 *퀴즈 화면. 보기를 고르면 정답 여부와 해설이 바로 나옵니다. (아직 고르지 않은 상태)*
