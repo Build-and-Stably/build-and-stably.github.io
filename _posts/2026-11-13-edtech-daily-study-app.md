@@ -109,16 +109,21 @@ date: 2026-11-13 15:04:15 +0900
 ## 결과 화면
 
 ![오늘 화면]({{ "/assets/images/edtech-daily-study-app.png" | relative_url }})
+
 *오늘 화면. 이번 주 5회차 진도와 다음 회차가 보입니다. (기록이 없는 처음 상태)*
 
 ![문제 화면]({{ "/assets/images/edtech-daily-study-app-2.png" | relative_url }})
+
 *문제 화면. 고르면 바로 정답과 오답이 표시되고, 아래에 해설이 나옵니다. (예시로 일부러 오답을 고른 상태)*
 
 ![목차 화면]({{ "/assets/images/edtech-daily-study-app-3.png" | relative_url }})
+
 *목차 화면. 분야(01 학습이론) 아래에 주차가 있고, 주차를 누르면 접히고 펴집니다. (기록이 없는 처음 상태)*
 
 ![학자 사전 화면]({{ "/assets/images/edtech-daily-study-app-4.png" | relative_url }})
+
 *학자 사전. 학자를 누르면 대표 이론 설명과 헷갈리기 쉬운 점이 펼쳐집니다.*
 
 ![드릴 화면]({{ "/assets/images/edtech-daily-study-app-5.png" | relative_url }})
+
 *순서 맞히기 드릴. ADDIE의 앞 두 단계를 맞힌 상태로, 맞힌 단계에는 설명이 채워집니다. (예시 진행 상태)*
